@@ -19,3 +19,7 @@ div{
 	text-align: center;
 	line-height: 400px;
 }
+footer{
+	background-color: tomato;
+	height: 200px;
+}
