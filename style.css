@@ -16,13 +16,13 @@ div{
 	width: 400px;
 	height: 400px;
 	background-color: purple;
-	position: relative;
-	margin: 0px auto;
+	margin-left: 300px;
 	color: black;
 	font-size: 50px;
 	text-align: center;
 	line-height: 400px;
 	border:1px solid black;
+	display: inline-block;
 	
 }
 footer{
